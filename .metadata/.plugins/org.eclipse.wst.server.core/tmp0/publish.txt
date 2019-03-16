@@ -1,0 +1,5 @@
+#GlassFish 3
+#Sat Mar 16 07:58:43 CET 2019
+org.eclipse.jst.jee.server\:ProjektKalkulator=C\:\\Users\\empe8\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\ProjektKalkulator
+org.eclipse.jst.jee.server\:ProjektTemperatura=C\:\\Users\\empe8\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\ProjektTemperatura
+org.eclipse.jst.jee.server\:ProjektKalk=C\:\\Users\\empe8\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\ProjektKalk

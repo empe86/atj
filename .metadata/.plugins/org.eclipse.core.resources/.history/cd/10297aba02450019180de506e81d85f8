@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form action="MyServlet" method="get">
+<input type="number" min="0" max="99" step="1" value="10" name="value1" required>
+<select name="oper">
+<option value="+">Dodaj</option>
+<option value="-">Odejmij</option>
+<input type="number" min="0" max="99" step="1" value="10" name="value2" required>
+</select>
+<input type="submit" value="Oblicz">
+</form>
+</body>
+</html>

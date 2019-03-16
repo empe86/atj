@@ -1,0 +1,7 @@
+INDEX VERSION 1.130
+C:\Users\empe8\atj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2296721385.index
+\ProjektTemperatura\src
+C:\Users\empe8\atj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2605719601.index
+\ProjektKalk\src
+C:\Users\empe8\atj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4181175282.index
+\ProjektKalkulator\src
